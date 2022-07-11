@@ -59,6 +59,17 @@ h3 {
 
 .linkedIn {
     height: 2em;
+    margin-right: 1em;
+}
+
+.github {
+    margin-right: 1em;
+    height: 2.1em;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
 }
 
 .me {
